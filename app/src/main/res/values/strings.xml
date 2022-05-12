@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetroKart</string>
+    <string name="left">◀︎</string>
+    <string name="right">▶︎</string>
+    <string name="go">▲</string>
+    <string name="back">▼</string>
+    <string name="gyro_on">ジャイロ操作\nON</string>
+    <string name="gyro_off">ジャイロ操作\nOFF</string>
+    <string name="back_seen">後方</string>
+    <string name="pause">||</string>
+</resources>
